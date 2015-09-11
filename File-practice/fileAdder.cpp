@@ -3,7 +3,7 @@
  * Date created:			1/21/15
  * Date modified			1/25/15
  *
- * This program will open a file, read the numbers, add them, 
+ * This program will open an existing file, read the numbers, add them, 
  * and write the sum in a different file.
  * *******************************************************/
 
